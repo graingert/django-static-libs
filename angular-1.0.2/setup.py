@@ -28,5 +28,8 @@ setup(
         'Topic :: Utilities',
     ],
     packages=['angularjs'],
-    package_data={'angularjs': ['static/libs/*.js', 'static/libs/i18n/*.js']},
+    package_data={'angularjs': [
+        'static/lib/angularjs/*.js',
+        'static/lib/angularjs/i18n/*.js'
+    ]},
 )
