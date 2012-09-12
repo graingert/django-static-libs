@@ -29,8 +29,8 @@ setup(
     ],
     packages=['bootstrap'],
     package_data={'bootstrap': [
-        'static/lib/bootstrap/js/*.js'
-        'static/lib/bootstrap/img/*.png'
+        'static/lib/bootstrap/js/*.js',
+        'static/lib/bootstrap/img/*.png',
         'static/lib/bootstrap/less/*.less'
     ]},
     install_requires = [
