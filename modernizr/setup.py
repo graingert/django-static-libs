@@ -27,8 +27,8 @@ setup(
         'Programming Language :: Python',
         'Topic :: Utilities',
     ],
-    packages=['bootstrap'],
-    package_data={'bootstrap': [
+    packages=['modernizr'],
+    package_data={'modernizr': [
         'static/lib/modernizer/modernizr.js',
         'static/lib/modernizer/feature-detects/*.js',
     ]},
