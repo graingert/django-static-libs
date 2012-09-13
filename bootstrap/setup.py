@@ -33,7 +33,4 @@ setup(
         'static/lib/bootstrap/img/*.png'
         'static/lib/bootstrap/less/*.less'
     ]},
-    install_requires = [
-        'jquery>=1.7.1'
-    ]
 )
