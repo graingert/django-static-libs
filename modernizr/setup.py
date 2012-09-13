@@ -29,7 +29,7 @@ setup(
     ],
     packages=['modernizr'],
     package_data={'modernizr': [
-        'static/lib/modernizer/modernizr.js',
-        'static/lib/modernizer/feature-detects/*.js'
+        'static/lib/modernizr/modernizr.js',
+        'static/lib/modernizr/feature-detects/*.js'
     ]},
 )
