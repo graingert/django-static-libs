@@ -9,7 +9,7 @@ except IOError:
     long_description = None
 
 setup(
-    name='django-boostrap',
+    name='django-bootstrap-less',
     version='2.1.1',
     url="https://github.com/graingert/django-static-libs/tree/master/bootstrap",
     description='Bootstrap packaged in a handy django app to speed up new applications and reduce duplicaiton.',
