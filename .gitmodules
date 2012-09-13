@@ -1,3 +1,6 @@
 [submodule "bootstrap/bootstrap/static/lib/bootstrap"]
 	path = bootstrap/bootstrap/static/lib/bootstrap
 	url = https://github.com/twitter/bootstrap
+[submodule "modernizr/modernizr/static/lib/modernizr"]
+	path = modernizr/modernizr/static/lib/modernizr
+	url = https://github.com/Modernizr/Modernizr
