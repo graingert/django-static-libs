@@ -4,3 +4,6 @@
 [submodule "modernizr/modernizr/static/lib/modernizr"]
 	path = modernizr/modernizr/static/lib/modernizr
 	url = https://github.com/Modernizr/Modernizr
+[submodule "underscore/underscore/static/lib/underscore"]
+	path = underscore/underscore/static/lib/underscore
+	url = https://github.com/documentcloud/underscore
