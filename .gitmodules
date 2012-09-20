@@ -7,3 +7,6 @@
 [submodule "underscore/underscore/static/lib/underscore"]
 	path = underscore/underscore/static/lib/underscore
 	url = https://github.com/documentcloud/underscore
+[submodule "flot/flot/static/lib/flot"]
+	path = flot/flot/static/lib/flot
+	url = https://github.com/flot/flot
